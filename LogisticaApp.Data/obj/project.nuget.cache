@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "knt1xraOmRY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\LogisticaApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}

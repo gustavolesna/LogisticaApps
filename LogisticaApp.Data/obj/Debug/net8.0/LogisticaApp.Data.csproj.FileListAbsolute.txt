@@ -1,0 +1,16 @@
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\bin\Debug\net8.0\LogisticaApp.Data.deps.json
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\bin\Debug\net8.0\LogisticaApp.Data.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\bin\Debug\net8.0\LogisticaApp.Data.pdb
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\bin\Debug\net8.0\LogisticaApp.Entities.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\bin\Debug\net8.0\LogisticaApp.Entities.pdb
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.csproj.AssemblyReference.cache
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.AssemblyInfoInputs.cache
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.AssemblyInfo.cs
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.sourcelink.json
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\Logistic.1541B051.Up2Date
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\refint\LogisticaApp.Data.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\LogisticaApp.Data.pdb
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Data\obj\Debug\net8.0\ref\LogisticaApp.Data.dll
