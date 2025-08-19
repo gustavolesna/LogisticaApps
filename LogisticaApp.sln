@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp", "LogisticaApp\LogisticaApp.csproj", "{929A79A2-848B-47F1-8E84-7B08B454CAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Entities", "LogisticaApp.Entities\LogisticaApp.Entities.csproj", "{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Data", "LogisticaApp.Data\LogisticaApp.Data.csproj", "{92FE18D9-D950-4D18-B35E-3584AC55BCC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Services", "LogisticaApp.Services\LogisticaApp.Services.csproj", "{59C858C3-D515-4F6F-8447-9959619ABC6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{929A79A2-848B-47F1-8E84-7B08B454CAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929A79A2-848B-47F1-8E84-7B08B454CAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929A79A2-848B-47F1-8E84-7B08B454CAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FE18D9-D950-4D18-B35E-3584AC55BCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FE18D9-D950-4D18-B35E-3584AC55BCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FE18D9-D950-4D18-B35E-3584AC55BCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FE18D9-D950-4D18-B35E-3584AC55BCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
