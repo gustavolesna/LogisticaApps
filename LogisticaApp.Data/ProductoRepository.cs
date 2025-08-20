@@ -21,8 +21,15 @@ namespace LogisticaApp.Data
         public Task<Producto> GetById(int id) =>
             _db.QueryFirstOrDefaultAsync<Producto>("SELECT * FROM Productos WHERE Id=@Id;", new { Id = id });
 
-        public Task Add(Producto producto) =>
-            _db.ExecuteAsync("INSERT INTO Productos (Nombre,Cantidad,Precio,Ubicacion) VALUES (@Nombre,@Cantidad,@Precio,@Ubicacion);", producto);
+        public async Task Add(Producto producto)
+        {
+            var sql = @"
+        INSERT INTO Productos (Nombre, Cantidad, Precio, Ubicacion)
+        VALUES (@Nombre, @Cantidad, @Precio, @Ubicacion)
+        RETURNING Id;";  // devuelve el Id generado
+
+            producto.Id = await _db.ExecuteScalarAsync<int>(sql, producto);
+        }
 
         public Task Update(Producto producto) =>
             _db.ExecuteAsync("UPDATE Productos SET Nombre=@Nombre,Cantidad=@Cantidad,Precio=@Precio,Ubicacion=@Ubicacion WHERE Id=@Id;", producto);

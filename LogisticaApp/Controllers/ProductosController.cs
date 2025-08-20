@@ -27,9 +27,18 @@ namespace LogisticaApp.Controllers
         }
 
         [HttpPost]
-        public Task<IActionResult> Post([FromBody] Producto producto)
+        public async Task<IActionResult> Post([FromBody] Producto producto)
         {
-            return _service.Add(producto).ContinueWith(_ => (IActionResult)Ok());
+            try
+            {
+                await _service.Add(producto);
+                // Podés devolver el producto insertado con su ID si la base de datos lo genera automáticamente
+                return CreatedAtAction(nameof(Get), new { id = producto.Id }, producto);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Mensaje = "Error al agregar producto", Detalle = ex.Message });
+            }
         }
 
         [HttpPut("{id}")]

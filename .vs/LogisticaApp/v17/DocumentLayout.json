@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\controllers\\devsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\controllers\\devsqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|solutionrelative:logisticaapp.services\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.services\\logisticaapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|solutionrelative:logisticaapp.services\\logisticaapp.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|solutionrelative:logisticaapp.data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.data\\logisticaapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|solutionrelative:logisticaapp.data\\logisticaapp.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.data\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92FE18D9-D950-4D18-B35E-3584AC55BCC4}|LogisticaApp.Data\\LogisticaApp.Data.csproj|solutionrelative:logisticaapp.data\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}|LogisticaApp.Entities\\LogisticaApp.Entities.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}|LogisticaApp.Entities\\LogisticaApp.Entities.csproj|solutionrelative:logisticaapp.entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}|LogisticaApp.Entities\\LogisticaApp.Entities.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CFB52D9-DA3C-4348-91AF-912FC5815FD4}|LogisticaApp.Entities\\LogisticaApp.Entities.csproj|solutionrelative:logisticaapp.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\logisticaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\logisticaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,138 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "LogisticaApp\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\ProductosController.cs*",
-              "RelativeToolTip": "LogisticaApp\\Controllers\\ProductosController.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAIBCwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:36:09.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogisticaApp.Services",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\LogisticaApp.Services.csproj",
-              "RelativeDocumentMoniker": "LogisticaApp.Services\\LogisticaApp.Services.csproj",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\LogisticaApp.Services.csproj",
-              "RelativeToolTip": "LogisticaApp.Services\\LogisticaApp.Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T15:33:12.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\IProductoService.cs",
-              "RelativeDocumentMoniker": "LogisticaApp.Services\\IProductoService.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\IProductoService.cs",
-              "RelativeToolTip": "LogisticaApp.Services\\IProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:33:21.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogisticaApp.Data",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\LogisticaApp.Data.csproj",
-              "RelativeDocumentMoniker": "LogisticaApp.Data\\LogisticaApp.Data.csproj",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\LogisticaApp.Data.csproj",
-              "RelativeToolTip": "LogisticaApp.Data\\LogisticaApp.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T15:30:14.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\ProductoRepository.cs",
-              "RelativeDocumentMoniker": "LogisticaApp.Data\\ProductoRepository.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\ProductoRepository.cs",
-              "RelativeToolTip": "LogisticaApp.Data\\ProductoRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:30:25.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs",
-              "RelativeDocumentMoniker": "LogisticaApp\\Program.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs*",
-              "RelativeToolTip": "LogisticaApp\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:09:55.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\IProductoRepository.cs",
-              "RelativeDocumentMoniker": "LogisticaApp.Data\\IProductoRepository.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\IProductoRepository.cs",
-              "RelativeToolTip": "LogisticaApp.Data\\IProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:28:29.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "LogisticaApp.Entities\\Producto.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Entities\\Producto.cs",
-              "RelativeToolTip": "LogisticaApp.Entities\\Producto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:26:24.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "LogisticaApp.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Entities\\Class1.cs",
-              "RelativeToolTip": "LogisticaApp.Entities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:25:14.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogisticaApp",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\LogisticaApp.csproj",
-              "RelativeDocumentMoniker": "LogisticaApp\\LogisticaApp.csproj",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\LogisticaApp.csproj*",
-              "RelativeToolTip": "LogisticaApp\\LogisticaApp.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-19T15:13:49.713Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -219,17 +53,33 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\appsettings.json",
-              "RelativeDocumentMoniker": "LogisticaApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\appsettings.json",
-              "RelativeToolTip": "LogisticaApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T15:06:15.544Z",
+              "DocumentIndex": 0,
+              "Title": "DevSqlController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\DevSqlController.cs",
+              "RelativeDocumentMoniker": "LogisticaApp\\Controllers\\DevSqlController.cs",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\DevSqlController.cs",
+              "RelativeToolTip": "LogisticaApp\\Controllers\\DevSqlController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:43:34.019Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs",
+              "RelativeToolTip": "LogisticaApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:49:14.469Z"
             }
           ]
         }

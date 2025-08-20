@@ -12,6 +12,9 @@ builder.Services.AddSingleton<IDbConnection>(sp => new NpgsqlConnection(connecti
 // Inyección de dependencias
 builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 builder.Services.AddScoped<IProductoService, ProductoService>();
+builder.Services.AddScoped<ClienteRepository>();
+builder.Services.AddScoped<ClienteService>();
+
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
