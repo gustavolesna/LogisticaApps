@@ -15,6 +15,16 @@
           }
         }
       },
+      "LogisticaApp.Comun/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LogisticaApp.Comun.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogisticaApp.Comun.dll": {}
+        }
+      },
       "LogisticaApp.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -61,6 +71,11 @@
         "readme.md"
       ]
     },
+    "LogisticaApp.Comun/1.0.0": {
+      "type": "project",
+      "path": "../LogisticaApp.Comun/LogisticaApp.Comun.csproj",
+      "msbuildProject": "../LogisticaApp.Comun/LogisticaApp.Comun.csproj"
+    },
     "LogisticaApp.Data/1.0.0": {
       "type": "project",
       "path": "../LogisticaApp.Data/LogisticaApp.Data.csproj",
@@ -74,6 +89,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LogisticaApp.Comun >= 1.0.0",
       "LogisticaApp.Data >= 1.0.0",
       "LogisticaApp.Entities >= 1.0.0"
     ]
@@ -110,6 +126,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Comun\\LogisticaApp.Comun.csproj": {
+              "projectPath": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Comun\\LogisticaApp.Comun.csproj"
+            },
             "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\LogisticaApp.Data.csproj": {
               "projectPath": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Data\\LogisticaApp.Data.csproj"
             },

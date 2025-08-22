@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Data", "Logist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Services", "LogisticaApp.Services\LogisticaApp.Services.csproj", "{59C858C3-D515-4F6F-8447-9959619ABC6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticaApp.Comun", "LogisticaApp.Comun\LogisticaApp.Comun.csproj", "{7338DAB3-3522-41D8-BA71-5DF25C72038B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C858C3-D515-4F6F-8447-9959619ABC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7338DAB3-3522-41D8-BA71-5DF25C72038B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7338DAB3-3522-41D8-BA71-5DF25C72038B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7338DAB3-3522-41D8-BA71-5DF25C72038B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7338DAB3-3522-41D8-BA71-5DF25C72038B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

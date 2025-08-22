@@ -47,42 +47,4 @@ public class DevSqlController : ControllerBase
 
 
 
-//#if DEBUG
-//using Dapper;
-//using Microsoft.AspNetCore.Mvc;
-//using System.Data;
 
-//[ApiController]
-//[Route("api/[controller]")]
-//public class DevSqlController : ControllerBase
-//{
-//    private readonly IDbConnection _db;
-
-//    public DevSqlController(IDbConnection db)
-//    {
-//        _db = db;
-//    }
-
-//    [HttpPost("Ejecutar")]
-//    public async Task<IActionResult> EjecutarScript([FromBody] SqlScriptRequest request)
-//    {
-//        if (string.IsNullOrWhiteSpace(request.Sql))
-//            return BadRequest(new { Mensaje = "El script no puede estar vacío" });
-
-//        try
-//        {
-//            await _db.ExecuteAsync(request.Sql);
-//            return Ok(new { Mensaje = "Script ejecutado correctamente" });
-//        }
-//        catch (Exception ex)
-//        {
-//            return StatusCode(500, new { Mensaje = "Error al ejecutar el script", Detalle = ex.Message });
-//        }
-//    }
-//}
-
-//public class SqlScriptRequest
-//{
-//    public string Sql { get; set; }
-//}
-//#endif

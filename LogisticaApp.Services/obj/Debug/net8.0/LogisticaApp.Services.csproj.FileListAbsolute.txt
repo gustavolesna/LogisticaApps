@@ -16,3 +16,5 @@ C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\obj\Debug\net8.0\
 C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\obj\Debug\net8.0\refint\LogisticaApp.Services.dll
 C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\obj\Debug\net8.0\LogisticaApp.Services.pdb
 C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\obj\Debug\net8.0\ref\LogisticaApp.Services.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\bin\Debug\net8.0\LogisticaApp.Comun.dll
+C:\Users\gusta\LogisticaApp\LogisticaApp\LogisticaApp.Services\bin\Debug\net8.0\LogisticaApp.Comun.pdb

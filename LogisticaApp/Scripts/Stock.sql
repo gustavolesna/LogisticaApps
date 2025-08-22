@@ -1,0 +1,6 @@
+CREATE TABLE Stock (
+    Id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    ProductoId INT NOT NULL REFERENCES Productos(Id),
+    SucursalId INT NOT NULL REFERENCES Sucursales(Id),
+    CantidadDisponible INT NOT NULL
+);
