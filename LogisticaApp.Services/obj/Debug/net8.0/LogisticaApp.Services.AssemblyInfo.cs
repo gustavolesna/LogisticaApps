@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogisticaApp.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2944b8f647ab1cf20236623b1a9dbfdc444ca6dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e82bf3d576a89eaf14157656d5cc149f89ebb4b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogisticaApp.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogisticaApp.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,8 @@
+using LogisticaApp.Comun.Logs;
 using LogisticaApp.Data;
 using LogisticaApp.Services;
-using System.Data;
 using Npgsql;
+using System.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +15,15 @@ builder.Services.AddScoped<IProductoRepository, ProductoRepository>();
 builder.Services.AddScoped<IProductoService, ProductoService>();
 builder.Services.AddScoped<ClienteRepository>();
 builder.Services.AddScoped<ClienteService>();
+// Registro de repositorios
+builder.Services.AddScoped<IRepositorioSucursal, RepositorioSucursal>();
+builder.Services.AddScoped<IRepositorioStock, RepositorioStock>();
 
+// Registro del servicio principal
+builder.Services.AddScoped<ServicioLogistica>();
+
+// Registro del logger
+builder.Services.AddSingleton<IServicioLogs, ServicioLogs>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.services\\serviciologistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59C858C3-D515-4F6F-8447-9959619ABC6D}|LogisticaApp.Services\\LogisticaApp.Services.csproj|solutionrelative:logisticaapp.services\\serviciologistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\controllers\\logisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\controllers\\logisticacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7338DAB3-3522-41D8-BA71-5DF25C72038B}|LogisticaApp.Comun\\LogisticaApp.Comun.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp.comun\\dtos\\sucursalcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7338DAB3-3522-41D8-BA71-5DF25C72038B}|LogisticaApp.Comun\\LogisticaApp.Comun.csproj|solutionrelative:logisticaapp.comun\\dtos\\sucursalcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|c:\\users\\gusta\\logisticaapp\\logisticaapp\\logisticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A79A2-848B-47F1-8E84-7B08B454CAB5}|LogisticaApp\\LogisticaApp.csproj|solutionrelative:logisticaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,15 +66,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SucursalCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Comun\\DTOs\\SucursalCreacionDTO.cs",
+              "RelativeDocumentMoniker": "LogisticaApp.Comun\\DTOs\\SucursalCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Comun\\DTOs\\SucursalCreacionDTO.cs",
+              "RelativeToolTip": "LogisticaApp.Comun\\DTOs\\SucursalCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:15:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Program.cs",
+              "RelativeToolTip": "LogisticaApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:11:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServicioLogistica.cs",
               "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\ServicioLogistica.cs",
               "RelativeDocumentMoniker": "LogisticaApp.Services\\ServicioLogistica.cs",
-              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\ServicioLogistica.cs",
-              "RelativeToolTip": "LogisticaApp.Services\\ServicioLogistica.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIA7wA8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp.Services\\ServicioLogistica.cs*",
+              "RelativeToolTip": "LogisticaApp.Services\\ServicioLogistica.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAA2wCwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:15:28.577Z",
+              "WhenOpened": "2025-08-22T20:08:56.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogisticaController.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\LogisticaController.cs",
+              "RelativeDocumentMoniker": "LogisticaApp\\Controllers\\LogisticaController.cs",
+              "ToolTip": "C:\\Users\\gusta\\LogisticaApp\\LogisticaApp\\LogisticaApp\\Controllers\\LogisticaController.cs",
+              "RelativeToolTip": "LogisticaApp\\Controllers\\LogisticaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywCcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:05:12.089Z",
               "EditorCaption": ""
             }
           ]
